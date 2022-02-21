@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orchanyne&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> </p>
 
-https://www.codewars.com/users/Orchanyne/
+[![Profile badge](https://www.codewars.com/users/Orchanyne/badges/large)](https://www.codewars.com/users/Orchanyne)
+
 
 - 🔭 I’m currently working on **API for my school website**
 
