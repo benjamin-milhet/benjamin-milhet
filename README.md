@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Benjamin MILHET</h1>
 <h3 align="center">A student at ESIREM Dijon, IT Engineer School</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=orchanyne&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=orchanyne&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> 
 
-<p align="center"> [![Profile badge](https://www.codewars.com/users/Orchanyne/badges/large)](https://www.codewars.com/users/Orchanyne) </p>
+[![Profile badge](https://www.codewars.com/users/Orchanyne/badges/large)](https://www.codewars.com/users/Orchanyne)
+  
+</p>
 
 
 - 🔭 I’m currently working on **API for my school website**
