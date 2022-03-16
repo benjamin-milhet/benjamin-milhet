@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Orchanyne](https://github.com/Orchanyne)
+- 👨‍💻 All of my projects are available at [https://github.com/Orchanyne](Orchanyne) and [https://github.com/Le-trio-de-l-enfer](Le trio de l'enfer)
 
 - 📫 How to reach me **benjamin.milhet@outlook.fr**
 
