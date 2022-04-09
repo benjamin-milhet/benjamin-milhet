@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=ballandilin&theme=tokyonight">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ballandilin&theme=tokyonight" alt="orchanyne" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Orchanyne&theme=tokyonight" alt="orchanyne" />
   </a>
 </p>
 
