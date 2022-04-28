@@ -33,7 +33,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **A Boulder-Dash video games in JS**
+- 🔭 I’m currently working on **A mystery JavaGame**
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
