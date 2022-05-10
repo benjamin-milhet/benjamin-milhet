@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://readme-jokes.vercel.app/api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orchanyne?theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orchanyne&theme=tokyonight" />
   </a>
 </p>
 
