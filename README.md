@@ -39,7 +39,7 @@
 
 - 👨‍💻 All of my projects are available at [Orchanyne](https://github.com/Orchanyne) and [Le trio de l'enfer](https://github.com/Le-trio-de-l-enfer)
 
-- 📫 How to reach me **benjamin.milhet@outlook.fr**
+- 📫 How to reach me : **benjamin.milhet@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
