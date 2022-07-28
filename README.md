@@ -27,12 +27,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://readme-jokes.vercel.app/api">
-    <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **A mystery JavaGame**
 
 - 🌱 I’m currently learning **Python, Machine Learning**
