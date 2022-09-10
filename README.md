@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=orchanyne&show_icons=true&locale=en&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=orchanyne&show_icons=true&locale=en&theme=tokyonight" alt="orchanyne" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-milhet&show_icons=true&locale=en&theme=tokyonight" alt="benjamin-milhet" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=ballandilin&theme=tokyonight">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Orchanyne&theme=tokyonight" alt="orchanyne" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
   </a>
 </p>
 
