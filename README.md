@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin MILHET</h1>
 <h3 align="center">A student at ESIREM Dijon, IT Engineer School</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=orchanyne&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=benjamin-milhet&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> </p>
 
 <p align="center">
   <a href="https://www.codewars.com/users/Orchanyne">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=orchanyne&show_icons=true&locale=en&theme=tokyonight">
+  <a href="https://github-readme-stats.vercel.app/api?username=benjamin-milhet&show_icons=true&locale=en&theme=tokyonight">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-milhet&show_icons=true&locale=en&theme=tokyonight" alt="benjamin-milhet" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=ballandilin&theme=tokyonight">
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
   </a>
 </p>
