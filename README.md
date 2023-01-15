@@ -27,7 +27,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **A mystery JavaGame**
+- 🔭 I’m currently working on discovering machine learning by predicting formula 1 winners
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
