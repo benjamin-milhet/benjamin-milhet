@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [Orchanyne](https://github.com/Orchanyne) and [Le trio de l'enfer](https://github.com/Le-trio-de-l-enfer)
 
-- 💻 [Codiname](https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974)
+- 💻 [Codingame](https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974)
 
 - 📫 How to reach me : **benjamin.milhet@outlook.fr**
 
