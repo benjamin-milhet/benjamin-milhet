@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin MILHET</h1>
-<h3 align="center">A student at ESIREM Dijon, IT Engineer School</h3>
+<h3 align="center">A student at ESIREM Dijon, IT Engineer School and I’m currently learning Python, Machine Learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=benjamin-milhet&label=Profile%20views&color=0e75b6&style=flat" alt="orchanyne" /> </p>
 
@@ -7,6 +7,9 @@
   <a href="https://www.codewars.com/users/Orchanyne">
     <img align="center" src="https://www.codewars.com/users/Orchanyne/badges/large" />
   </a>
+  </br>
+  </br>
+  <a href="https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974">💻 Codingame</a>
 </p>
 
 <br>
@@ -19,17 +22,12 @@
 
 <br>
 
-- 🔭 I’m currently working on a [Connect 4](https://github.com/benjamin-milhet/Puissance4)
-
-- 🌱 I’m currently learning **Python, Machine Learning**
-
-- 👨‍💻 All of my projects are available at [benjamin-milhet](https://github.com/benjamin-milhet)
-
-- 💻 [Codingame](https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974)
-
-- 📫 How to reach me : **benjamin.milhet@outlook.fr**
-
 <h3 align="left">Connect with me:</h3>
+📫 ```benjamin.milhet@outlook.fr```
+
+</br>
+</br>
+
 <p align="left">
 <a href="https://fr.linkedin.com/in/benjamin-milhet-25876a204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin milhet" height="30" width="40" /></a>
 <a href="https://instagram.com/benjamin_milhet?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin milhet" height="30" width="40" /></a>
