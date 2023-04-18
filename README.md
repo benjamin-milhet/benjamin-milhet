@@ -23,10 +23,10 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-📫 ```benjamin.milhet@outlook.fr```
 
-</br>
-</br>
+```
+📫 benjamin.milhet@outlook.fr 
+```
 
 <p align="left">
 <a href="https://fr.linkedin.com/in/benjamin-milhet-25876a204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin milhet" height="30" width="40" /></a>
