@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 
 ```
-📫 benjamin.milhet@outlook.fr 
+benjamin.milhet@outlook.fr 
 ```
 
 <p align="left">
