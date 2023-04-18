@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Orchanyne](https://github.com/Orchanyne)
+- 👨‍💻 All of my projects are available at [benjamin-milhet](https://github.com/benjamin-milhet)
 
 - 💻 [Codingame](https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974)
 
