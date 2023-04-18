@@ -12,8 +12,6 @@
   <a href="https://www.codingame.com/profile/7dabfdfda0aecf47c085b91c3f2666dc5035974">💻 Codingame</a>
 </p>
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 
 ```
