@@ -22,6 +22,14 @@
 
 <br>
 
+<p align="center">
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
+  </a>
+</p>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 
 ```
