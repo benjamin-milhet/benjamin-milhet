@@ -14,13 +14,7 @@
 
 <br>
 
-<p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
-  </a>
-</p>
 
-<br>
 
 <p align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
@@ -47,5 +41,11 @@ benjamin.milhet@outlook.fr
 
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=benjamin-milhet&bg_color=232323&color=a8c6fe&line=74a7fe&point=e392fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
+  </a>
+</p>
+
+<br>
 
