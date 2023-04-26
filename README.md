@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight" alt="benjamin-milhet" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=ayu-mirage" alt="benjamin-milhet" />
   </a>
 </p>
 
