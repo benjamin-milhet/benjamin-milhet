@@ -13,12 +13,6 @@
 
 </br>
 
-<p align="center">
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=tokyonight">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=benjamin-milhet&theme=ayu-mirage" alt="benjamin-milhet" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 ```
